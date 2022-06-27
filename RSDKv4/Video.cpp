@@ -26,7 +26,7 @@ static long videoRead(THEORAPLAY_Io *io, void *buf, long buflen)
     if (br == 0)
         return -1;
     return (int)br;
-} // IoFopenRead
+} // IoFopenReadaa
 
 static void videoClose(THEORAPLAY_Io *io)
 {
