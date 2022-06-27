@@ -45,7 +45,7 @@ void PlayVideoFile(char *filePath)
 
     StrCopy(pathBuffer, "videos/");
     StrAdd(pathBuffer, filePath);
-    StrAdd(pathBuffer, ".ogv");
+    StrAdd(pathBuffer, ".mp4");
 
     bool addPath = true;
     // Fixes ".ani" ".Ani" bug and any other case differences
