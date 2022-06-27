@@ -1,6 +1,9 @@
 name: Build RSDKv3
 on:
   push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
     branches:
       - master
       - continuous-delivery
