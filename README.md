@@ -22,7 +22,7 @@ If you want to transfer your save(s) from the official mobile version(s), the **
 * Custom menu and networking system for Sonic 2 multiplayer, allowing anyone to host and join servers and play 2P VS.
 * There is now a `settings.ini` file that the game uses to load all settings, similar to Sonic Mania.
 * The dev menu can now be accessed from anywhere by pressing the `ESC` key if enabled in the config.
-* The `F12` pause, `F11` step over & fast forward debug features from Sonic Mania have all been ported and are enabled if `devMenu` is enabled in the config.
+* The `F12` ¼, `F11` step over & fast forward debug features from Sonic Mania have all been ported and are enabled if `devMenu` is enabled in the config.
 * A number of additional dev menu debug features have been added:
   * `F1` will load the first scene in the Presentation stage list (usually the title screen).
   * `F2` and `F3` will load the previous and next scene in the current stage list.
